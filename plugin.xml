@@ -45,8 +45,8 @@
         <source url="https://cdn.cocoapods.org/" />
       </config>
       <pods use-frameworks="true">
-        <pod name="GoogleMLKit/BarcodeScanning"
-          spec="~> 2.5.0" />
+        <pod name="GoogleMLKit/BarcodeScanning" spec="4.0.0" />
+        <pod name="GoogleMLKit/Common" spec="4.0.0" />
       </pods>
     </podspec>
     <header-file src="src/ios/CDViOSScanner.h" />
