@@ -38,10 +38,7 @@
     "type": "git",
     "url": "https://github.com/cutechsupport/cordova-plugin-mlkit-barcode-scanner.git"
   },
-  "homepage": "https://github.com/cutechsupport/cordova-plugin-mlkit-barcode-scanner#readme",
-  "publishConfig": {
-    "registry": "https://pkgs.dev.azure.com/cutechsupport/_packaging/mobisys/npm/registry/"
-  },
+  "homepage": "https://github.com/cutechsupport/cordova-plugin-mlkit-barcode-scanner#readme", 
   "devDependencies": {
     "@rollup/plugin-commonjs": "20.0.0",
     "@rollup/plugin-node-resolve": "13.0.4",
